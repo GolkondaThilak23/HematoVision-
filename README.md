@@ -1,1 +1,2 @@
 # HematoVision-Advanced-Blood-Cell-Classification-Using-Transfer-Learning
+The HematoVision project successfully demonstrates an AI-powered system for blood cell classification using transfer learning. A pre-trained MobileNetV2 model enables accurate classification of eosinophils, lymphocytes, monocytes, and neutrophils from uploaded images. The web app, developed using Flask, provides a simple interface for uploading images and viewing results in real time. The system is designed to be efficient, easy to use, and runs entirely on local machines.
